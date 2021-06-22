@@ -1,0 +1,30 @@
+
+header
+{
+
+height:75px;
+line-height:70px;
+background-image: linear-gradient(-217deg, rgb(0,190,220), rgb(0,150,200),rgb(10,100,180),rgb(30,60,150), rgb(60,20,200),rgb(30, 15, 150), rgb(10, 20, 80),rgb(10, 10, 50));
+}
+
+#logo:hover{
+opacity: 0.5;
+}
+
+.logo{
+  max-width: 160px;
+}
+
+nav a
+{
+color:white;
+font-family:verdana;
+font-size:1em;
+}
+
+nav a:hover
+{
+color:white;
+opacity:0.8;
+text-decoration: none;
+}
